@@ -1,0 +1,14 @@
+numpy~=1.19.5
+scikit-learn~=0.24.2
+scikit-image~=0.18.2
+pillow~=8.3.1
+tensorflow~=2.5.0
+keras~=2.4.3
+pynput~=1.7.3
+h5py
+
+scipy
+opencv-python~=4.5.2.54
+pytesseract~=0.3.8
+pywin32~=301
+mss~=6.1.0
